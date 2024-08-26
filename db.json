@@ -1,0 +1,751 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "Floral Embroidered Regular Sequinned Anarkali Kurta",
+      "price": 1319,
+      "description": "Floral embroidered Anarkali shape Regular style V-neck, three-quarter regular sleeves sequinned detail Calf length with flared hem Viscose rayon knitted and woven fabric",
+      "category": "Indian Wear",
+      "image": "https://i.pinimg.com/736x/73/e1/63/73e163f6cabed69d8e9be148f3a0c6be.jpg",
+      "rating": {
+        "rate": 3.8,
+        "count": 16
+      }
+    },
+    {
+      "id": 2,
+      "title": "Embroidered Maroon Kurta and Pant with Dupatta (Set of 3)",
+      "price": 2640,
+      "description": "Women love their clothes, and no one understands this better than Libas. With over 35 years of experience in creating the most magical outfits for women, Libas has earned the valuable trust of its customers",
+      "category": "Indian Wear",
+      "image": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/a/1/a1db956LIBAS00000439_1.jpg?rnd=20200526195200&tr=w-256",
+      "rating": {
+        "rate": 5,
+        "count": 20
+      }
+    },
+    {
+      "id": 3,
+      "title": "Faiza Pink Full Work Premium Pakistani Kurta with Pant & Dupatta ",
+      "price": 3600,
+      "description": "Autumn Lane is for women who are looking to give their wardrobe a trendy makeover! We offer a collection of Indian & Indo-Western outfits that are perfect for all occasions. Our young and vibrant brand caters to the fashion needs of today’s woman.",
+      "category": "Indian Wear",
+      "image": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/7/f/7f851abFEMINA-FAIZAPINK_1.jpg?rnd=20200526195200&tr=w-256",
+      "rating": {
+        "rate": 3.8,
+        "count": 18
+      }
+    },
+    {
+      "id": 4,
+      "title": "Party All Over Tiny Stones With Scallop Border Organza Peach Saree & Unstitched Blouse",
+      "price": 3600,
+      "description": "Nyri is the brand of beautiful and unique sarees curated for every occasion for modern women.",
+      "category": "Indian Wear",
+      "image": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/9/3/931174eNK_NYRIX00001605_1.jpg?rnd=20200526195200&tr=w-256",
+      "rating": {
+        "rate": 4.5,
+        "count": 20
+      }
+    },
+    {
+      "id": 5,
+      "title": "Women's Georgette Grey Embellished Designer Saree with Unstitched Blouse",
+      "price": 5256,
+      "description": "AKHILAM started its journey in the textile industry in the year 2004 and offers Printed Sarees and Embroidery Sarees in new fabrics like Art Silk , Linen, Bhagalpuri Silk, Jute silk, Madhubani silk, Pashmina Silk, Patola Silk, Dharmavaram Silk.",
+      "category": "Indian Wear",
+      "image": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/f/2/f27cd52SPARKLE7612TFH_1.jpg?rnd=20200526195200&tr=w-512",
+      "rating": {
+        "rate": 5,
+        "count": 20
+      }
+    },
+    {
+      "id": 6,
+      "title": "Mauve Swarovski Shimmer Designer Saree with Unstitched Blouse",
+      "price": 5990,
+      "description": "Trendy designs that reflect your personality. There’s something for every woman & every occasion at Koskii. Making every special occasion memorable, Koskii.",
+      "category": "Indian Wear",
+      "image": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/0/6/063aa25SAUS0018647-MAUVE_1.jpg?rnd=20200526195200&tr=w-512",
+      "rating": {
+        "rate": 3.8,
+        "count": 19
+      }
+    },
+    {
+      "id": 7,
+      "title": "Womens Printed And Embroidered Rayon Kurta Pant Dupatta",
+      "price": 1440,
+      "description": "Rayon floral printed kurta with embroidery, border printed Pant which has full elasticated waistband and printed voile dupatta. Products Kurta Length-46 inch, pant length-38 inch and Dupatta Length- 2.30 Mtr. Pair it with stunning jewellery and heels to flaunt yourself",
+      "category": "Indian Wear",
+      "image": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/9/4/9491262KPDTURQRANGOON_1.jpg?rnd=20200526195200&tr=w-512",
+      "rating": {
+        "rate": 4,
+        "count": 11
+      }
+    },
+    {
+      "id": 8,
+      "title": "Lapiz Blue Bandhani Printed Anarkali Kurta with Dupatta",
+      "price": 3360,
+      "description": "An Epitome Of Royalty And Luxury, This Blue Bandhani Anarkali Comes With An Overlapped Round Neckline With A Keyhole Pattern, Defining The Shoulder Area With Lace Detailing. Inspired By The Regal Shades Of Lapiz Lazuli And Handcrafted To Perfection, This Lapiz Blue Anarkali Is An Ensemble Of Our Elegant Bonjour Jaipur Collection!",
+      "category": "Indian Wear",
+      "image": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/3/4/34f5af6E2018_1.jpg?rnd=20200526195200&tr=w-512",
+      "rating": {
+        "rate": 4.1,
+        "count": 13
+      }
+    },
+    {
+      "id": 9,
+      "title": "Lavender Cotton Embroidery Kurta with Trouser & Dupatta",
+      "price": 1975,
+      "description": "Tikhi Imli Lavender Cotton Embroidery Kurta With Trouser & Dupatta. Tailored to sartorial perfection from premium quality fabric, it assures a soft and soothing touch against the skin. The exquisite silhouette adds to its appeal.",
+      "category": "Indian Wear",
+      "image": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/6/d/6d7e76dKurtaset_1151_3.jpg?tr=w-256",
+      "rating": {
+        "rate": 4.1,
+        "count": 14
+      }
+    },
+    {
+      "id": 10,
+      "title": "Khevna Scarlet Work Red Kurta with Pant and Dupatta",
+      "price": 3200,
+      "description": "Introducing Our Exquisite Set, A Perfect Blend Of Traditional Elegance And Contemporary Style. Our Set Is Thoughtfully Designed To Enhance Your Beauty And Radiate A Sense Of Grace Wherever You Go. Crafted With The Utmost Care, This Ensemble Embodies The Rich Heritage Of Indian Fashion While Catering To The Modern Woman",
+      "category": "Indian Wear",
+      "image": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/8/e/8e6753718803KHEVNASCARLET_1.jpg?rnd=20200526195200&tr=w-256",
+      "rating": {
+        "rate": 5,
+        "count": 20
+      }
+    },
+    {
+      "id": 11,
+      "title": "Navy Blue Velvet Ethnic Motif Printed Lehenga Choli & Dupatta Set",
+      "price": 3869,
+      "description": "Navy Blue Velvet Ethnic Motif Printed Lehenga Choli & Dupatta Set. Perfect for festive wear, the set features a gathered peplum top with round neck and three-quarter bell sleeves, adorned with buttons. The ankle-length straight velvet lehenga boasts a partially elasticated waist for comfort.",
+      "category": "Indian Wear",
+      "image": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/9/2/9207navy_9235nv_9570nv-0_8326c1d2.jpg?rnd=20200526195200&tr=w-256",
+      "rating": {
+        "rate": 4.1,
+        "count": 12
+      }
+    },
+    {
+      "id": 12,
+      "title": "Pearl Work Lehenga in a Shimmer Organza with Full Sleeves",
+      "price": 215000,
+      "description": "Upgrade your ethnic closet with VANDANA SETHI. It is crafted from high-quality fabric. It features ivory lehenga set. It has embroidered pattern with full sleeves square neck and embroidered, mid waist. This outfit is perfect for wedding or any special ocaasion.",
+      "category": "Indian Wear",
+      "image": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/7/8/7807780VS-EW-A0019A_1.jpg?rnd=20200526195200&tr=w-256",
+      "rating": {
+        "rate": 5,
+        "count": 20
+      }
+    },
+    {
+      "id": 13,
+      "title": "Multicolored Net Sequence Semi-Stitched Lehenga Choli",
+      "price": 3840,
+      "description": "To look beautiful this wedding season, grab this lovely lehenga, blouse and dupatta set. This lehenga set is fabricated on georgette and is beautified with embroidery. The lehenga has a bridal look. Pair it with matching jewellery, heels and a big smile for the gorgeous look.",
+      "category": "Indian Wear",
+      "image": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/5/6/56d78b4MLC149_1.jpg?rnd=20200526195200&tr=w-256",
+      "rating": {
+        "rate": 4.2,
+        "count": 19
+      }
+    },
+    {
+      "id": 14,
+      "title": "Flashy Purple Semi Stitched Lehenga with Unstitched Blouse",
+      "price": 3072,
+      "description": "Wear this set with heavy jhumkas, jewelled hairpins, and embellished sandals to be the cynosure of all eyes",
+      "category": "Indian Wear",
+      "image": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/3/6/36aeb3dLSDP072_1.jpg?rnd=20200526195200&tr=w-256",
+      "rating": {
+        "rate": 4.8,
+        "count": 17
+      }
+    },
+    {
+      "id": 15,
+      "title": "A Pickled Jar Pink Leheria Embroidered Cape and Skirt ",
+      "price": 4900,
+      "description": "FEATURES: Leheria Round-neck Padded Sleeveless Blouse with an elasticated back detail Color - Pink Embellishment - The Blouse features in a vibrant leheria pattern with a comfortable adjustable elasticated back. Fit - Fitted Sleeves - Sleeveless Closure - Elastication Lining - Poly Crepe Solid Tiered Gathered Skirt Color - Pink Embellishment - The Skirt features in a soft georgette fabric with a gathered tier at hem",
+      "category": "Indian Wear",
+      "image": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/5/8/5844b19PY_GAJRA00005304_5.jpg?tr=w-256",
+      "rating": {
+        "rate": 4,
+        "count": 16
+      }
+    },
+    {
+      "id": 16,
+      "title": "Rose Gold Plated AD Studded Necklace with Earrings Jewellery",
+      "price": 1920,
+      "description": "Add a hint of loveliness to all your ethnic looks and outfits with this pair of earrings and necklace set from Saraf RS Jewellery. Crafted in superior quality brass, it features a fine rose gold plating with lovely stone work. Adorn it with a traditional outfit and you are set to steal the limelight.",
+      "category": "Jewellery",
+      "image": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/3/f/3f55ab9NF_SARAF00000457_1.jpg?rnd=20200526195200&tr=w-256",
+      "rating": {
+        "rate": 4.1,
+        "count": 11
+      }
+    },
+    {
+      "id": 17,
+      "title": "Set Of 3 Multi-Color Kundan Choker Necklace Earring and Ring Set",
+      "price": 690,
+      "description": "Round off your festive look with these multi-colour necklace, earrings, and ring set from the house of Zaveri Pearls. Made from alloy with 22k gold plating, this alluring jewellery is sure to take your look a notch higher. Make every outfit special by opting for this exquisite jewellery.",
+      "category": "Indian Wear",
+      "image": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/d/a/dacf4f5BZAVER00002949_2.jpg?tr=w-256",
+      "rating": {
+        "rate": 3.8,
+        "count": 10
+      }
+    },
+    {
+      "id": 18,
+      "title": "Silver Plated Green American Diamond CZ Studded Necklace Set ",
+      "price": 3151,
+      "description": "On occasions where more maybe less,This marvelous Jazz And Sizzle Rhodium Plated American Diamond Studded Choker necklace & colour beads are complementing each other comes with a beautiful Jhumkas that will add that final touch to your outfit to step up your styling game.",
+      "category": "Jewellery",
+      "image": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/7/d/7d1a331NL-JS22-40100_1.jpg?rnd=20200526195200&tr=w-256",
+      "rating": {
+        "rate": 3.9,
+        "count": 15
+      }
+    },
+    {
+      "id": 19,
+      "title": "Gold Contemporary Look Pearls Choker With Earrings",
+      "price": 366,
+      "description": "Make a stunning style statement with this jewellery sets plated in 22k gold from Zaveri Pearls that make an elegant pick to don for every occasion. Style it up with your attire to complete the look. It contains 1 necklace & 1 pair of earrings",
+      "category": "Jewellery",
+      "image": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/a/0/a0aae80NYK_NYFZAVERI1435_2.jpg?tr=w-256",
+      "rating": {
+        "rate": 3.8,
+        "count": 14
+      }
+    },
+    {
+      "id": 20,
+      "title": "Gold Tone Crystal and Pearls Link Fashion Drop Earrings",
+      "price": 449,
+      "description": "Add these earrings from OOMPH to your wardrobe for a modern minimal look with class and decorum. Designed for a chic elegant look, they are handmade with the finest non-allergic metal, stones, and beads. Team these earrings up with your Jacket or skirt to create a look that exudes poise and grace.",
+      "category": "Jewellery",
+      "image": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/f/a/fa53502MOOMPH00001419_1.jpg?rnd=20200526195200&tr=w-256",
+      "rating": {
+        "rate": 3.2,
+        "count": 9
+      }
+    },
+    {
+      "id": 21,
+      "title": "Rose Gold Circular Hoop Earrings",
+      "price": 850,
+      "description": "This delicate pair of hoop earrings will immediately put you in the spot light. Crafted with finest quality Cubic zirconia, this rose-gold plated jewellery is the perfect accessory for any ensemble on any occasion.",
+      "category": "Jewellery",
+      "image": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/2/d/2d6eb8cFJE3334_1.jpg?rnd=20200526195200&tr=w-256",
+      "rating": {
+        "rate": 4.2,
+        "count": 15
+      }
+    },
+    {
+      "id": 22,
+      "title": "Green & Peach Dazzling Stones Crescent Ethnic Dangle Earring",
+      "price": 383,
+      "description": "The festive season is here! Are you ready to flaunt a little sparkle this festive season? We have got you covered with our must-have earrings for this season! It’s the time to stock up gorgeous fashion jewellery for your ethnic outfits and avoid any last minute fashion-hassle!",
+      "category": "Jewellery",
+      "image": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/3/b/3b3c78cZPFK16397_1.jpg?rnd=20200526195200&tr=w-512",
+      "rating": {
+        "rate": 3.5,
+        "count": 10
+      }
+    },
+    {
+      "id": 23,
+      "title": "18K Majestic Emerald Earrings for Women and Girls",
+      "price": 53775,
+      "description": "This Ear Cuffs & Clips earrings are made of 18K Gold (BIS hallmarked), weighing 3.27 grams.The Diamonds and Gemstones used are SGL certified (if used), so you can rest assured of the quality of your jewellery.",
+      "category": "Jewellery",
+      "image": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/e/9/e9023_18k_1_99b351ec.jpg?rnd=20200526195200&tr=w-256",
+      "rating": {
+        "rate": 5,
+        "count": 20
+      }
+    },
+    {
+      "id": 24,
+      "title": "Silver Rhodium Plated Swiss Zirconia Sky Blue Eye Adjustable Ring",
+      "price": 1999,
+      "description": "Underline your individuality with this trend-setting sterling silver sky blue eye adjustable ring from CLARA. The ring is studded with the finest quality swiss zirconia and finished with rhodium plating for long-lasting shine. Wear it at weddings, parties, or just a good day out and feel like a diva. Shipped in an elegant complimentary gift box.",
+      "category": "Jewellery",
+      "image": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/a/d/ad083ccCSCLRR3RD_BT_1.jpg?rnd=20200526195200&tr=w-256",
+      "rating": {
+        "rate": 4.4,
+        "count": 19
+      }
+    },
+    {
+      "id": 25,
+      "title": "Rose Gold Cubic Zirconia Party Bling Statement Brass Ring",
+      "price": 400,
+      "description": "Beautiful diamond rings certainly attract everyone who prefers to accessorize with sparkly gems. This sort of jewelry is available in so many designs by Zaveri Pearls, you get to stay trendy & stylish for less. So if you want to be a show-stopper in functions/parties or night-outs with these CZ on-trend rose gold rings that sparkle in the moonlight this one is for you. Dimensions Ring Diameter-2 cm (L)| (Adjustable)",
+      "category": "Jewellery",
+      "image": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/e/a/eadc1e0ZPFK15430_1.jpg?rnd=20200526195200&tr=w-256",
+      "rating": {
+        "rate": 3.8,
+        "count": 72
+      }
+    },
+    {
+      "id": 26,
+      "title": "Silver-Plated CZ Stone-Studded Adjustable Finger Ring",
+      "price": 433,
+      "description": "Elevate your look with this ring by PANASH. Made with high-quality material, it is designed to perfection. Perfect to amp up your attire, it is surely a must-have.",
+      "category": "Jewellery",
+      "image": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/5/2/52da469PIGD000RG1102_3.jpg?tr=w-256",
+      "rating": {
+        "rate": 4.8,
+        "count": 30
+      }
+    },
+    {
+      "id": 27,
+      "title": "Green Dazzling Cubic Zirconia Embellished Brass Adjustable Ring",
+      "price": 879,
+      "description": "Beautiful diamond rings certainly attract everyone who prefers to accessorize with sparkly gems. This sort of jewelry is available in so many designs by Zaveri Pearls, you get to stay trendy & stylish for less. So if you want to be a show-stopper in functions/parties or night-outs with these CZ on-trend rose gold rings that sparkle in the moonlight this one is for you.",
+      "category": "Jewellery",
+      "image": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/7/f/7f1a311ZPFK17186_1.jpg?rnd=20200526195200&tr=w-256",
+      "rating": {
+        "rate": 4,
+        "count": 40
+      }
+    },
+    {
+      "id": 28,
+      "title": "Analog Blue Dial Women Watch",
+      "price": 3750,
+      "description": "An apt inclusion to your accessories repertoire, this blue women's watch from Daniel Klein that is sure to elevate your every look. Nestled in a 32 mm case, this round dial analog watch is accented with a stainless steel strap and offers a high quality as well as lightweight feel. Perfect for everyday wear, style this watch with a crisp white shirt and a pair of straight-cut trousers to attain a smart look.",
+      "category": "Jewellery",
+      "image": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/3/d/3d0f5deNYFDKDPI01711_1.jpg?rnd=20200526195200&tr=w-256",
+      "rating": {
+        "rate": 4.2,
+        "count": 50
+      }
+    },
+    {
+      "id": 29,
+      "title": "Modern Courier Rose Gold Strap Casual Watch",
+      "price": 10147,
+      "description": "Upgrade your accessories collection with this watch by Fossil. Made with high-quality material, this analog timepiece features a clasp closure. Style it with your everyday outfits to elevate the overall look.",
+      "category": "Jewellery",
+      "image": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/b/7/b7569ceBQ3377_1.jpg?rnd=20200526195200&tr=w-256",
+      "rating": {
+        "rate": 4.8,
+        "count": 20
+      }
+    },
+    {
+      "id": 30,
+      "title": "Silver Dial Analog Watches For Women",
+      "price": 3630,
+      "description": "This Daniel Klein watch will quickly become your favourite staple accessory. When you're going to dinner and a movie, match this Silver piece with trim denims and a cute sweater. Accentuate your masculine appeal by wearing this stylish analog watch from the house of Daniel Klein. This fashionable watch features a classy round dial and a sturdy strap that fits your wrist completely with ease.",
+      "category": "Jewellery",
+      "image": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/9/b/9ba65deNYFDKDPI01985_2.jpg?tr=w-256",
+      "rating": {
+        "rate": 3.8,
+        "count": 50
+      }
+    },
+    {
+      "id": 31,
+      "title": "Retroact Women's White Sneakers",
+      "price": 5600,
+      "description": "Cool kicks are a much-needed addition to any well-rounded wardrobe. These feature colour blocking details for a sporty aesthetic.",
+      "category": "Foot wear",
+      "image": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/7/d/7d10c56RETROACT100_1.jpg?rnd=20200526195200&tr=w-512",
+      "rating": {
+        "rate": 4,
+        "count": 30
+      }
+    },
+    {
+      "id": 32,
+      "title": "Comfortable & Sporty Black Sandals for Women",
+      "price": 800,
+      "description": "This pair of girls sandals are stylish and very comfortable. It is super easy velcro on and off. You can wear it on you casual or sporty dress.",
+      "category": "Foot wear",
+      "image": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/f/c/fce8615Gem-Black_1.jpg?rnd=20200526195200&tr=w-256",
+      "rating": {
+        "rate": 3.8,
+        "count": 60
+      }
+    },
+    {
+      "id": 33,
+      "title": "Womens Gun Metal Flat SandalsMochi Gun Metal Synthetic Embellished Women Flats",
+      "price": 1194,
+      "description": "Appear effortlessly smart by wearing this pair of flats. The stylish upper and the comfortable fit makes it quite high on quality. Moreover, the slip-resistant sole will prevent you from falling accidentally. It is comfortable for any occasion.",
+      "category": "Foot wear",
+      "image": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/5/6/563d0ae35-351-29_2.jpg?tr=w-256",
+      "rating": {
+        "rate": 2.9,
+        "count": 20
+      }
+    },
+    {
+      "id": 34,
+      "title": "Navy Embroidered Almond Toe Block Heel",
+      "price": 1650,
+      "description": "A 3D embroidered T-strap sandal, with stable and comfortable block heel for ocassion and party wear.",
+      "category": "Foot wear",
+      "image": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/2/0/20auw9fw00011-14023a_1_54656379.jpg?rnd=20200526195200&tr=w-256",
+      "rating": {
+        "rate": 3.9,
+        "count": 60
+      }
+    },
+    {
+      "id": 35,
+      "title": "Pink Studded Strappy Pointed Toe Wedges",
+      "price": 2606,
+      "description": "This pair of wedges feature an almond shaped toe, studded front cross straps and a jute covered platform.",
+      "category": "Foot wear",
+      "image": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/0/9/09a4487HL011129_2.jpg?tr=w-256",
+      "rating": {
+        "rate": 4.8,
+        "count": 28
+      }
+    },
+    {
+      "id": 36,
+      "title": "Taina Leather White Solid Heels",
+      "price": 11999,
+      "description": "Add a sophisticated touch to your footwear options with this white pair of heels from Aldo. Made with care from leather, it features a TPR sole and is accented with buckle closure. It ensures that you do not trip or fall on any surface. Team it with a pair of denim and a t-shirt on any casual occasion.",
+      "category": "Foot wear",
+      "image": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/e/a/ead3744TAINA110_1.jpg?rnd=20200526195200&tr=w-256",
+      "rating": {
+        "rate": 4.9,
+        "count": 59
+      }
+    },
+    {
+      "id": 37,
+      "title": "Metallic Purple Women Embellished Sequined Heels",
+      "price": 1539,
+      "description": "Upgrade your footwear closet with this ELLE Metallic Purple Women Embellished Sequined Heels . Made with high-quality material, they are designed to perfection. Style them with your outfit to elevate the overall look.",
+      "category": "Foot wear",
+      "image": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/c/e/ceacb3dEL-GV-W-44-Metallic-Purple_1.jpg?rnd=20200526195200&tr=w-256",
+      "rating": {
+        "rate": 3.8,
+        "count": 19
+      }
+    },
+    {
+      "id": 38,
+      "title": "Disco Ball Black Heels",
+      "price": 6600,
+      "description": "PUBLIC DESIRE Disco Ball Black Heels",
+      "category": "Foot wear",
+      "image": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/d/f/dfca778DISCOBALLBLACK_1.jpg?rnd=20200526195200&tr=w-256",
+      "rating": {
+        "rate": 5,
+        "count": 30
+      }
+    },
+    {
+      "id": 39,
+      "title": "White Chunky Plain Block Heel",
+      "price": 1400,
+      "description": "GNIST White Chuncky Block Heel,Cushioned Comfort will keep your feet relaxed for long hours.",
+      "category": "Foot wear",
+      "image": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/b/c/bcc8887GN-H-511-White_2.jpg?tr=w-256",
+      "rating": {
+        "rate": 3.9,
+        "count": 43
+      }
+    },
+    {
+      "id": 40,
+      "title": "Nude Diamond Studded Slant Strips Heels",
+      "price": 3800,
+      "description": "This product is a part of IRUSSH's 'Diamond Days' collection that speaks volumes of glamour in the terms of added sparkles of rhinestones. Each pair is hand crafted and assembled by local artisans.",
+      "category": "Foot wear",
+      "image": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/a/9/a998d71IRUSH-NUD-DSSH_2.jpg?tr=w-256",
+      "rating": {
+        "rate": 4.8,
+        "count": 40
+      }
+    },
+    {
+      "id": 41,
+      "title": "Daily Wear White Casual Sneakers for Women",
+      "price": 900,
+      "description": "Reinvent your style with these casual comfertable sneakers. Grab a classic pair of sneakers and turn heads with your remarkable style, these shoes are made to complement every style of yours. Lace up for a fun day out in shorts or jeans. Or pair these with your favorite bodycon dress like a true fashionista.",
+      "category": "Foot wear",
+      "image": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/4/d/4dfd8b2JM-25-White_2.jpg?tr=w-256",
+      "rating": {
+        "rate": 3.7,
+        "count": 38
+      }
+    },
+    {
+      "id": 42,
+      "title": "Black Woven Design Women Slip-On Sneakers",
+      "price": 1078,
+      "description": "Carlton London is the leading manufacturer of shoes, Casual Shoes, sliders, sandals and slippers, both for men’s & women’s. Carlton London offers performance and sport-inspired lifestyle products in categories such as running, Training and Fitness. Using high technology and design innovation, Footox continually creates what is aspired and not just what is necessary.",
+      "category": "Foot wear",
+      "image": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/d/0/d08e434CL-BI-Wn-02BLACK_1.jpg?rnd=20200526195200&tr=w-256",
+      "rating": {
+        "rate": 3.3,
+        "count": 12
+      }
+    },
+    {
+      "id": 43,
+      "title": "Ogl-01 White Women Sneakers",
+      "price": 1190,
+      "description": "Step into the realm of timeless class and sophistication with Campus OGs in their captivating white shades. These women's shoes are more than just footwear; they are a testament to your impeccable sense of style and individuality. So slip them on, strut with confidence, and make a fashionable statement that transcends trends and embraces the beauty of timeless allure.",
+      "category": "Foot wear",
+      "image": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/4/a/4a602f7TCAMPU00036351_0.jpg?rnd=20200526195200&tr=w-256",
+      "rating": {
+        "rate": 4.9,
+        "count": 68
+      }
+    },
+    {
+      "id": 44,
+      "title": "Smart Casual Lace-Up White Sneakers",
+      "price": 1000,
+      "description": "Delicate and comfortable, these Sneakers are perfect to accompany your routine. With a airmax sole and adjustable laces. Combine with casual looks. You are always in fashion!",
+      "category": "Foot wear",
+      "image": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/f/c/fc9b2beJMBalaWhite_1.jpg?rnd=20200526195200&tr=w-512",
+      "rating": {
+        "rate": 3.9,
+        "count": 105
+      }
+    },
+    {
+      "id": 45,
+      "title": "Pink Design Women Slip-On Sneakers",
+      "price": 1380,
+      "description": "Carlton London is the leading manufacturer of shoes, Casual Shoes, sliders, sandals and slippers, both for men’s & women’s. Carlton London offers performance and sport-inspired lifestyle products in categories such as running, Training and Fitness. Using high technology and design innovation, Footox continually creates what is aspired and not just what is necessary. ",
+      "category": "Foot wear",
+      "image": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/d/0/d08e434CL-BI-Wn-03PINK_2.jpg?tr=w-256",
+      "rating": {
+        "rate": 4,
+        "count": 40
+      }
+    },
+    {
+      "id": 46,
+      "title": "Collar Solid Pleated Tie Long Sleeve Short Dress",
+      "price": 3660,
+      "description": "Take your style up a notch with this grey dress from Cider. Crafted from woven fabric, it is finished with full sleeves and a collar neck. Complete the look with a pair of heels and dainty jewellery.",
+      "category": "Westernwear",
+      "image": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/5/4/543e6b8CD20230605325802BZ-LightGrey_1.jpg?rnd=20200526195200&tr=w-256",
+      "rating": {
+        "rate": 5,
+        "count": 60
+      }
+    },
+    {
+      "id": 47,
+      "title": "Shirt Dress with Front Drape",
+      "price": 1040,
+      "description": "Amp up your closet with this Mabish By Sonal Jain Shirt Dress with Front Drape. Made with the finest material, it is designed to perfection. Style it with footwear to complete the look.",
+      "category": "Westernwear",
+      "image": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/3/6/369f629TP0521CP15_1.jpg?rnd=20200526195200&tr=w-256",
+      "rating": {
+        "rate": 4.2,
+        "count": 80
+      }
+    },
+    {
+      "id": 48,
+      "title": "Women White Embroidered Casual Co-Ord",
+      "price": 1976,
+      "description": "White Embroidered 2 Piece Co-Ord Set Has Three-Quarter Sleeves Boat Neck Top With Frill Detail At Neckline And Button Closure At Back & The Shorts Has 2 Pockets With Side Zipper.",
+      "category": "Westernwear",
+      "image": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/f/2/f249d1a0HA258C01_1.jpg?rnd=20200526195200&tr=w-256",
+      "rating": {
+        "rate": 3.8,
+        "count": 90
+      }
+    },
+    {
+      "id": 49,
+      "title": "LUXE By MISH Solid Teal Side Slit Maxi Dress",
+      "price": 2880,
+      "description": "Flaunt your style with this teal dress from MISH. Tailored from polyester, this alluring dress is finished with half sleeves and a v-neck. Team it with a pair of heels and minimal jewellery to complete the look.",
+      "category": "Westernwear",
+      "image": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/1/8/18a747d1509_1.jpg?rnd=20200526195200&tr=w-256",
+      "rating": {
+        "rate": 3.9,
+        "count": 53
+      }
+    },
+    {
+      "id": 50,
+      "title": "Grey Shimmer Full Sleeves Classic Blazer",
+      "price": 3178,
+      "description": " This blazer features a shimmer pattern, a lapel collar, full-length sleeves and front pockets. Elevate your style with this classic blazer. Pair it with matching trousers, heels and a black top to get the look - says our inhouse stylist Shimoli Kapasi.",
+      "category": "Westernwear",
+      "image": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/7/d/7d19233JK022321_1.jpg?rnd=20200526195200&tr=w-256",
+      "rating": {
+        "rate": 3.7,
+        "count": 68
+      }
+    },
+    {
+      "id": 51,
+      "title": "Solid Blue Denim Jacket",
+      "price": 2400,
+      "description": "This Blue jacket from screams cool but keeps you warm. Pair it with matching jeans to complete the look.",
+      "category": "Westernwear",
+      "image": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/6/2/622982dFWA23JCJF001901_2.jpg?tr=w-256",
+      "rating": {
+        "rate": 4.8,
+        "count": 26
+      }
+    },
+    {
+      "id": 52,
+      "title": "Women White Hooded Neck Typography Print Casual Jacket",
+      "price": 1449,
+      "description": "Embrace casual style with the white hooded neck typography print casual jacket from Globus. This hoodie jacket, featuring a zipper open front and long sleeves, boasts a typography print design, adding a trendy touch. Crafted for comfort, this regular-fit jacket offers a relaxed yet stylish look, perfect for everyday wear or casual outings.",
+      "category": "Westernwear",
+      "image": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/f/c/fc27fe7WCGBECOMWJKT3458-WHITE_1.jpg?rnd=20200526195200&tr=w-256",
+      "rating": {
+        "rate": 4.3,
+        "count": 56
+      }
+    },
+    {
+      "id": 53,
+      "title": "Women Black Embellished Regular Jumpsuit",
+      "price": 1920,
+      "description": "Black and Lavender Polyester Solid Embellished Regular Jumpsuit. Has a Halter Neck and is Sleeveless. Has sequin detailing.",
+      "category": "Westernwear",
+      "image": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/5/c/5c4b4acMCSS22D99-73-245_2.jpg?tr=w-256",
+      "rating": {
+        "rate": 4.2,
+        "count": 36
+      }
+    },
+    {
+      "id": 54,
+      "title": "Floral Print Basic Playsuit",
+      "price": 792,
+      "description": "Make a magnificent style statement as you don this floral print basic playsuit from KASSUALLY. Crafted using polyester material, it features a zipper closure and full sleeves design. Style it with a pair of kitten heels to complete the chic look.",
+      "category": "Westernwear",
+      "image": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/1/d/1dd2611KSLJMPS4067_1.jpg?rnd=20200526195200&tr=w-256",
+      "rating": {
+        "rate": 4,
+        "count": 45
+      }
+    },
+    {
+      "id": 55,
+      "title": "Women Multi-color Keyhole Neck Bohemian Print Panelled Viscose Jumpsuit",
+      "price": 1748,
+      "description": "Women Multi-Color Keyhole Neck Bohemian Print Panelled Viscose Jumpsuit. It is designed to ensure optimum room for ease of movement. It is sure to fetch you compliments from all. Join the league of fashion elites flaunting the staple.",
+      "category": "Westernwear",
+      "image": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/9/5/95d3a98MCSS23D15-66-178_1.jpg?rnd=20200526195200&tr=w-256",
+      "rating": {
+        "rate": 4.1,
+        "count": 50
+      }
+    },
+    {
+      "id": 56,
+      "title": "Aviana Camera Bag - Green",
+      "price": 7200,
+      "description": "Elevate your style game with this sleek green sling bag from Guess. It is crafted from high-quality polyurethane material. This sling bag features a zip closure and a printed. Its perfect size and versatility make it suitable for multiple occasions. The interior provides plenty of storage space for keeping a phone, cash & car keys, etc.",
+      "category": "Bags",
+      "image": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/e/6/e6a1fa4GUEAB00003251_2.jpg?tr=w-256",
+      "rating": {
+        "rate": 3.5,
+        "count": 28
+      }
+    },
+    {
+      "id": 57,
+      "title": "Black Casual Printed Tote Bag",
+      "price": 1375,
+      "description": "Treat yourself to a fashionable Tote Bag by MINI WESST and look stylish all year long. Match this Tote Bag with one of your favourite tees, some slim jeans, and a pair of patent pumps for a stunning date outfit.",
+      "category": "Bags",
+      "image": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/2/b/2b9ed99MWTB052PR_1.jpg?rnd=20200526195200&tr=w-256",
+      "rating": {
+        "rate": 3.7,
+        "count": 39
+      }
+    },
+    {
+      "id": 58,
+      "title": "Brown Shoulder Bag",
+      "price": 7999,
+      "description": "Upgrade your wardrobe by adding this piece from Aldo. It is crafted from high-quality material, this is a must-have in your wardrobe.",
+      "category": "Bags",
+      "image": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/b/4/b434fd1MARICAR900_1.jpg?rnd=20200526195200&tr=w-512",
+      "rating": {
+        "rate": 4.5,
+        "count": 95
+      }
+    },
+    {
+      "id": 59,
+      "title": "Cherokee Unisex Polyester 20L Laptop Backpack - Black",
+      "price": 2300,
+      "description": "Tommy Hilfiger Travel Gear, a premier global lifestyle brand, offers consumers worldwide exceptional value, quality, and superior styling. We celebrate Classic American Cool while providing a unique twist to traditional American fashion. Inspired by an iconic American style, our brand offers a colorful and vibrant, yet classic and modern aesthetic.",
+      "category": "Bags",
+      "image": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/e/e/eeac16b8903496206364B_1.jpg?rnd=20200526195200&tr=w-256",
+      "rating": {
+        "rate": 4.9,
+        "count": 69
+      }
+    },
+    {
+      "id": 60,
+      "title": "Gold Pearl Embroidery Potli Bag",
+      "price": 1194,
+      "description": "This potli features a pearl embroidery, a pearl handle and a drawstring with pearl detailing.  This elegant potli is all you need to add that extra charm. This has been designed to bring in the oomph factor to your festive looks - says our inhouse stylist Rhythum Seth.",
+      "category": "Bags",
+      "image": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/f/9/f933c4fAZAIJ00001790_1.jpg?rnd=20200526195200&tr=w-256",
+      "rating": {
+        "rate": 3.9,
+        "count": 58
+      }
+    },
+    {
+      "id": 61,
+      "title": "Lasercut Design Sling Bag",
+      "price": 1164,
+      "description": "Upgrade your accessories collection with this Styli Lasercut Design Sling Bag. Made with the finest material, it is designed to perfection. Style it with your outfit to elevate the overall look.",
+      "category": "Bags",
+      "image": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/c/9/c93cd367004848524_1.jpg?rnd=20200526195200&tr=w-256",
+      "rating": {
+        "rate": 4.2,
+        "count": 69
+      }
+    }
+  ],
+  "cart": [],
+  "orders": [
+    {
+      "id": 3,
+      "title": "Faiza Pink Full Work Premium Pakistani Kurta with Pant & Dupatta ",
+      "price": 3600,
+      "description": "Autumn Lane is for women who are looking to give their wardrobe a trendy makeover! We offer a collection of Indian & Indo-Western outfits that are perfect for all occasions. Our young and vibrant brand caters to the fashion needs of today’s woman.",
+      "category": "Indian Wear",
+      "image": "https://adn-static1.nykaa.com/nykdesignstudio-images/pub/media/catalog/product/7/f/7f851abFEMINA-FAIZAPINK_1.jpg?rnd=20200526195200&tr=w-256",
+      "rating": {
+        "rate": 3.8,
+        "count": 18
+      }
+    }
+  ]
+}
